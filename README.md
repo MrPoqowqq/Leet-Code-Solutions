@@ -7,6 +7,7 @@ My personal archive of solved problems from [LeetCode](https://leetcode.com/). P
 All solutions are organized by difficulty level:
 * 🟢 **[easy](./easy)** — basic algorithms, string manipulation, arrays, and hash maps.
 * 🟡 **[medium](./medium)** — more advanced problems (linked lists, OOP, optimization).
+* 🔴 **[hard](./hard)** - very hard to find a solution.
 
 ## 🛠️ How to Run Locally
 
